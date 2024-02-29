@@ -29,6 +29,16 @@
         "matching_type": "inclusive"
       },
       {
+        "name": "Radxa Zero 3W",
+        "tags": [
+          "zero-3w"
+        ],
+        "default": false,
+        "icon": "https://radxa.com/zero/3w/banner_zero3w.webp",
+        "description": "A Light, Compact and Tiny SBC",
+        "matching_type": "inclusive"
+      },
+      {
         "name": "Generic RK3588 / RK3588S",
         "tags": [
           "generic-rk3588",
